@@ -191,7 +191,6 @@ https://www.campaignmonitor.com/email-templates/
 ## Learn More ::
 
 - [https://www.phpdeveloper.org.uk/](https://www.phpdeveloper.org.uk/)
-- [https://www.classcentral.com/](https://www.classcentral.com/)
 - [https://app.loopcv.pro/signup](https://app.loopcv.pro/signup)
 - [https://www.eldalab.in/](https://www.eldalab.in/)
 - [https://scribehow.com/](https://scribehow.com/)
