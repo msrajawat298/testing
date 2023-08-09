@@ -1,4 +1,5 @@
 # Bundler cache
+.DS_Store
 .bundle
 vendor
 Gemfile.lock
@@ -20,3 +21,4 @@ package-lock.json
 
 # Misc
 assets/js/dist
+_site
