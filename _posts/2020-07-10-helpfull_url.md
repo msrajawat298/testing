@@ -144,7 +144,6 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [https://www.mail-signatures.com/signature-generator/#/user-social-media](https://www.mail-signatures.com/signature-generator/#/user-social-media)
 - [vertex 3D icon](https://vertex.im/)
 - [Wordtune - AI-powered Writing Companion](https://www.wordtune.com/)
-- [www.classcentral.com](www.classcentral.com)
 - [https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html](https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
 - [https://pixabay.com/](https://pixabay.com/)
 - [https://getfirebug.com/](https://getfirebug.com/)
@@ -191,6 +190,7 @@ https://www.campaignmonitor.com/email-templates/
 ## Learn More ::
 
 - [https://www.phpdeveloper.org.uk/](https://www.phpdeveloper.org.uk/)
+- [https://www.classcentral.com/](https://www.classcentral.com/)
 - [https://app.loopcv.pro/signup](https://app.loopcv.pro/signup)
 - [https://www.eldalab.in/](https://www.eldalab.in/)
 - [https://scribehow.com/](https://scribehow.com/)
