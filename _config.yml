@@ -92,10 +92,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: msrajawat298/testing # <gh-msrajawat298>/<repo>
-    repo_id: R_kgDOKE5zHg
+    repo: ${{ secrets.REPO }}
+    repo_id: ${{ secrets.REPO_ID }}
     category: General
-    category_id: DIC_kwDOKE5zHs4CYetn
+    category_id: ${{ secrets.CAT_ID }}
     mapping: pathname # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
