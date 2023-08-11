@@ -1,0 +1,11 @@
+version: '3'
+services:
+  jekyll:
+    image: msrajawat298/jekyll-live-change
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./:/srv/jekyll
+    tty: true
+    stdin_open: true
+    command: ["jekyll", "serve", "--watch"]
